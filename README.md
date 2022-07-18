@@ -8,9 +8,9 @@ https://github.com/the-ninth/offline-demo
 * The base endpoint is: https://api.the-ninth.com   
 # 
 
-
-
 # Game Assets Endpoints
+
+![process](https://github.com/the-ninth/api-doc/blob/pre/images/process1.jpg)
 ## Mint assets 
 
 erc-1155 token  
