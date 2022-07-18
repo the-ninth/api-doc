@@ -1,7 +1,10 @@
 # Introduction
 ## API Library
 ### sign offline demo
-https://github.com/the-ninth/offline-demo
+https://github.com/the-ninth/sdk-offline-sign
+
+### contract source files
+https://github.com/the-ninth/sdk-contract
 
 # General Info
 ## General API Information
